@@ -4,8 +4,6 @@
 
 ## 요약
 
----
-
 특정 파일만 stash 하고 싶은 경우,
 
 ```bash
@@ -15,8 +13,6 @@ git stash push -p [file_name1] [file_name2] ...
 <br>
 
 ## 예시
-
----
 
 file1.txt, file2.txt, file3.txt 3개 파일 모두가 변경된 상황에서
 
