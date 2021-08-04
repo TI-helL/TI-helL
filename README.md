@@ -1,4 +1,4 @@
-# **지옥의 TIL(Today I Learned) 프로젝트**
+**지옥의 TIL(Today I Learned) 프로젝트**
 
 > 📆 오늘 **새로 배운 내용** 및 **경험**을 글로 정리해보자!
 
