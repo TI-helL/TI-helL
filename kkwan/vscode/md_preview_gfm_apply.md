@@ -9,7 +9,7 @@
 - Windows: `Ctrl + K, V`
 - Mac: `Cmd + K, V`
 
-## **VSCode에서 GFM Style이 적용된 Preview 보기**
+## **VSCode에서 GFM Style이 적용된 Preview 보는 방법**
 
 1. EXTENSIONS: MARKETPLACE > [**Markdown Preview Github Styling**](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) 설치
 
