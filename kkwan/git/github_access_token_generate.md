@@ -2,13 +2,9 @@
 
 > 2FA(Two-Factor Authentication)이 적용된 GitHub 계정의 경우 Terminal 로그인이 불가능하다. 이를 해결하기 위한 방법 중 하나인 Access Token을 기반으로 로그인하는 방법을 설명한다.
 
-<br>
-
 ## **GitHub 로그인**
 
 개인용 Access Token을 생성하기 위해 먼저 [**GitHub**](https://github.com/login)에 접속하여 로그인한다.
-
-<br>
 
 ## **GitHub Access Token 생성 과정**
 
@@ -23,8 +19,6 @@
    ![Personal Access Tokens](./img/github_generate_new_token.png)
 
 4. 요구하는 Scope을 체크하고, **"Generate token"** 버튼을 클릭한다.
-
-<br>
 
 ## **일반적으로 사용하는 Token Scope**
 
