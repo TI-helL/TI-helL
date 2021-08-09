@@ -29,4 +29,3 @@ https://insights.stackoverflow.com/survey/2021
 
 #### work(개발자들의 고용형태, 연봉 등을 조사)
 - Engineering manager가 \$95,976으로 가장 높은 연봉을 받는 직종(backend-dev는 \$56,723으로 13번째)
--  
