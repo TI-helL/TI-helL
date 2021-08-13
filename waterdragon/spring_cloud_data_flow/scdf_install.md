@@ -1,4 +1,4 @@
-#Spring Cloud Data Flow 설치
+# Spring Cloud Data Flow 설치
 
 document에 나와 있는 설치는 docker-compose에서 kafka 이미지를 사용하고 아래 설치방법은 외부의 kafka를 사용하는 방법임
 
