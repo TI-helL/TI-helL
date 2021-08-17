@@ -6,4 +6,4 @@
 - 2021년 8월 11일 : [gradle dependency configuration](./spring/gradle_dependency_configuration.md)
 - 2021년 8월 12일 : [spring cloud data flow install](./spring_cloud_data_flow/sdcf_install.md)
 - 2021년 8월 13일 : 오후 반차
-- 2021년 8월 17일 : [spring cloud stream example]
+- 2021년 8월 17일 : [spring cloud stream example](./spring_cloud_data_flow/simple_stream_example.md)
