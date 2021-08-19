@@ -10,3 +10,4 @@
 2021.08.13: Boosting(Gradient Boosting)  
 2021.08.17: softmax를 쓰는 이유
 2021.08.18: Git
+2021.08.19: Git2

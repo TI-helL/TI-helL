@@ -36,3 +36,15 @@ A<-B(main)   &nbsp;&nbsp;&nbsp;=>  A<-B(main)<-C(branch)
 &nbsp;&nbsp;<-C(branch) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <-B(branch)  
 
 
+#### 삭제된 branch 업데이트
+* Remote에서 삭제된 branch가 아직 남아있다고 보인다.
+```
+$ git branch -a
+main
+branch1
+remotes/origin/main
+remotes/origin/mh_dev
+remotes/origin/ALREADY_DELETED
+```
+* 이 때 `git remote update origin --prune` 하면 `ALREADY_DELETED` 
+branch가 사라진다.
