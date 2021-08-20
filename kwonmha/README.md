@@ -8,6 +8,7 @@
 2021.08.11: Decision Tree    
 2021.08.12: Ensenble 중 Bagging(Random Forest) + Boosting(Adaboost)  
 2021.08.13: Boosting(Gradient Boosting)  
-2021.08.17: softmax를 쓰는 이유
-2021.08.18: Git
-2021.08.19: Git2
+2021.08.17: softmax를 쓰는 이유  
+2021.08.18: Git  
+2021.08.19: Git2  
+2021.08.20 import, from

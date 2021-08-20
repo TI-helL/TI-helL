@@ -9,3 +9,4 @@
 - 2021년 8월 17일 : [spring cloud stream example](./spring_cloud_data_flow/simple_stream_example.md)
 - 2021년 8월 18일 : [white domain](./etc/white_domain.md)
 - 2021년 8월 19일 : [spring boot mail test](./spring/spring_mail_test.md)
+- 2021년 8월 20일 : [white domain spf](./etc/white_domain_SPF.md)
