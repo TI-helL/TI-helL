@@ -1,10 +1,10 @@
-## CODEOWNERS
+# CODEOWNERS
 
-# How to set
+## How to set
 
 git root 디렉터리에 있는 `.github` 디렉토리 안에 `CODEOWNERS` 파일을 생성하면 된다.
 
-# How to use
+## How to use
 
 생성한 `CODEOWNERS` 파일 내에 다음과 같이 정의하면 된다.
 
