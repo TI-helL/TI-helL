@@ -2,6 +2,7 @@
 
 ## MSA란
 기존의 하나의 서버에서 동작하던 애플리케이션을 **"small services, each running in its own processt(스스로 동작하는 작은 서비스), independently deployable(독립적 배포 가능)"** 한 구조로 변경 한것
+
 ![image](https://user-images.githubusercontent.com/24540286/130413448-0643c3f6-8885-4e5d-a7cc-928e93ddaed8.png)
 
 이와 같은 구조를 가질 경우 각각의 도메인에 대한 독립적인 데이터베이스를 가지게 된다. 기존에는 하나의 데이터베이스를 사용했기 때문에 RDBMS에서 Transaction 처리가 가능했지만 데이터베이스가 나뉘어 지면서 Transaction 처리에 어려움이 있다. 이를 해결하기 위한 방법으로 **TCC(Try, Confirm, Cancle)** 와  SAGA 패턴이 있음
