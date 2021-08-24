@@ -11,4 +11,6 @@
 2021.08.17: softmax를 쓰는 이유  
 2021.08.18: Git  
 2021.08.19: Git2  
-2021.08.20 import, from
+2021.08.20: Python - import, from  
+2021.08.23: Python - timeit, generator  
+2021.08.24: Python - pass, NotImplementedError, NotImplemented  
