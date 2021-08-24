@@ -11,3 +11,4 @@
 - 2021년 8월 19일 : [spring boot mail test](./spring/spring_mail_test.md)
 - 2021년 8월 20일 : [white domain spf](./etc/white_domain_SPF.md)
 - 2021년 8월 23일 : [msa transaction](./msa/msa_transaction.md)
+- 2021년 8월 24일 : [gitops with k8s](./DevOps/GitOps_with_k8s.md)
