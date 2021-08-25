@@ -19,7 +19,9 @@ https://devocean.sk.com/vlog/view.do?id=211&vcode=A03
 
 # 아 발표 재미없다 그냥 튜토리얼 해보자
 ## ArgoCD에서 sample app을 제공하고 있음
+
 https://github.com/argoproj/argocd-example-apps
+
 <img width="505" alt="스크린샷 2021-08-24 오전 11 20 11" src="https://user-images.githubusercontent.com/24540286/130545638-91059a17-d506-4bb1-9d7c-3712909abd13.png">
 
 ### 1. sample app fork
@@ -46,10 +48,12 @@ https://github.com/argoproj/argocd-example-apps
   <img width="444" alt="스크린샷 2021-08-24 오전 11 43 56" src="https://user-images.githubusercontent.com/24540286/130547520-b838db51-a11f-4d87-8ac9-3bbdab8fae28.png">
 
 - 초기 화면
+
     ![스크린샷 2021-08-24 오후 1 38 31](https://user-images.githubusercontent.com/24540286/130559023-9eef5e59-8b41-49fe-a1ab-4aabd1fb4eee.png)
 
 
 - k8s의 상태
+
     ![스크린샷 2021-08-24 오후 1 38 55](https://user-images.githubusercontent.com/24540286/130559026-0ffe7f7a-43cb-43d9-9639-d27fc9095746.png)
 
 
