@@ -131,3 +131,5 @@ Java 에는 `Checked Exception` 과 `Unchecked Exception` 이 존재한다.
 이를 해결하려면 `PROPAGATION_REQUIRED_NEW` 옵션을 사용하면 된다.
 
 
+## 결론
+트랜잭션 동작을 예측하고 잘 컨트롤 하는 것이 예기치 못한 장애 발생을 방지할 수 있을 듯 하다 
