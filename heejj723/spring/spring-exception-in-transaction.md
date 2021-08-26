@@ -63,8 +63,8 @@ public class AuthService {
 
 참고로 AuthException 은 java RuntimeException 을 상속하고 있다.
 
-newCount == 5 가 되는 시점에는, 트랜잭션 중간에 예외를 던져버리기 때문에 다섯번째로 비밀번호가 틀렸을때는 데이터가 변하지 않는다.
-트랜잭션 중간에 RuntimeException 이 던져지게 되면 트랜잭션이 롤백이 되기 때문이다.
+newCount == 5 가 되는 시점에는, 트랜잭션 중간에 예외를 던져버리기 때문에 다섯번째로 비밀번호가 틀렸을때는 데이터쓰기가 적용되지 않는다.
+트랜잭션 중간에 RuntimeException 을 던지면 트랜잭션이 롤백이 되기 때문이다.
 
 ---
 
