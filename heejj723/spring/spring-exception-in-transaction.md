@@ -114,7 +114,20 @@ Java 에는 `Checked Exception` 과 `Unchecked Exception` 이 존재한다.
 `TransactionSynchronization.afterCommit()` 을 이용하여 커밋 이후의 동작을 정의했다.
 이렇게하면 트랜잭션이 끝난 후에 `RuntimeException`을 던지기 때문에 트랜잭션은 롤백되지 않는다.
 
+** 참고
+`afterCommit()` 관련 코드는 `AbstractPlatformTransactionManager.processCommit()` 에서 찾아볼 수 있다.
+![스크린샷 2021-08-26 오후 11 47 08](https://user-images.githubusercontent.com/45758481/130984591-beed219b-9091-42f4-8c4c-864e1393ddea.png)
+
+
 ---
 
 ### 트랜잭션 안에서 새로운 트랜잭션을 열 때 주의 사항 
-`@Transactional` 의 기본 `propagation behavior` 
+
+`@Transactional` 의 기본 `propagation behavior` 은 `PROPAGATION_REQUIRED` 이다.
+이 옵션을 사용하면, 트랜잭션 안에서 또다른 트랜잭션을 열려고 시도할 경우, 새로운 트랜잭션이 아니라 기존 트랜잭션에 참여하게 된다.
+이로인해 발생하는 문제는, 안쪽 트랜잭션이 롤백되면 바깥쪽 트랜잭션도 롤백된다는 것이다.
+코드상으로 분리되어 보이는 두 트랜잭션이 사실 하나이기 때문이다.
+
+이를 해결하려면 `PROPAGATION_REQUIRED_NEW` 옵션을 사용하면 된다.
+
+
