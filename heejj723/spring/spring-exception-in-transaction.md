@@ -11,7 +11,7 @@
 
 기존 코드는 이랬다.
 
-```
+```java
 @Service
 public class AuthService {
 
@@ -30,6 +30,7 @@ public class AuthService {
     return authenticatedUser;
   }
 }
+
 ```
 
 여느 로그인 관련 로직이 그렇듯, 기존 로그인에서 일어나는 트랜잭션은 READ 만 존재했다.
@@ -37,7 +38,7 @@ public class AuthService {
 
 근데 이번 기능 추가할 때는 해당 함수의 트랜잭션 한번에 READ 와 Write 를 동시에 해야 했다.
 
-```
+```java
   @Transactional(propagation = Propagation.REQUIRES_NEW)
   public UserProj authenticate(String emailAddress, String password) {
     UserProj authenticatedUser;
@@ -92,7 +93,7 @@ Java 에는 `Checked Exception` 과 `Unchecked Exception` 이 존재한다.
 사실 나는 1번으로 해결했는데, 2번 방법도 있다. (이건 나중에)
 
 
-```
+```java
   @Transactional(propagation = Propagation.REQUIRES_NEW)
   public UserProj authenticate(String emailAddress, String password) {
     .
