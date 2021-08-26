@@ -77,6 +77,9 @@ Java 에는 `Checked Exception` 과 `Unchecked Exception` 이 존재한다.
 |트랜잭션 롤백|안됨|디폴트가 True|
 |검증|컴파일 단계|런타임 단계|
 
+![exception-relation](https://user-images.githubusercontent.com/45758481/130985587-8a7909df-b619-43fb-93b9-38d4305d32be.png)
+
+
 ---
 
 ### 4. 그래서 어떻게 해결?
