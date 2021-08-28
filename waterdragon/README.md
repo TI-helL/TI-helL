@@ -14,3 +14,4 @@
 - 2021년 8월 24일 : [gitops with k8s](./DevOps/GitOps_with_k8s.md)
 - 2021년 8월 25일 : [k8s init container](./k8s/init_container.md)
 - 2021년 8월 26일 : [argocd simple example](./DevOps/argocd_simple_example.md)
+- 2021년 8월 28일 : [argocd workflow](./DevOps/argocd_workflow.md)
