@@ -2,6 +2,6 @@
 
 ## Toptal
 
-link: https://www.toptal.com/developers/gitignore
+link: <https://www.toptal.com/developers/gitignore>
 
-![](img/gitignore_toptal.png)
+![toptal](img/gitignore_toptal.png)
