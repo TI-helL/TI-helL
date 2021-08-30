@@ -58,6 +58,8 @@ public class StringCryptoConverter implements AttributeConverter<String, String>
 
 이제 끝이다. 암호화 해 줄 필드에 `convert` 어노테이션을 할 암호화를 적용할 필드에 달아준다. 
 
+![스크린샷 2021-08-30 오후 7 52 07](https://user-images.githubusercontent.com/45758481/131328617-6f5dc2ae-d2e0-463a-98b5-59c3b8e19f87.png)
+
 
 https://docs.jboss.org/hibernate/jpa/2.2/api/javax/persistence/Convert.html 를 참조하면 자세한 사용법을 알 수 있다.
 
