@@ -16,3 +16,4 @@
 - 2021년 8월 26일 : [argocd simple example](./DevOps/argocd_simple_example.md)
 - 2021년 8월 28일 : [argocd workflow](./DevOps/argocd_workflow.md)
 - 2021년 8월 30일 : [spring OAuth Enable](./spring/spring_OAuth_enable.md)
+- 2021년 8월 31일 : [k8s init container 2](./k8s/init_container2.md)
