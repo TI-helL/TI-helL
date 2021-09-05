@@ -12,7 +12,7 @@
 
 <details>
 <summary>
-**2021년 8월 TIL 기록**
+2021년 8월 TIL 기록
 </summary>
 
 | Sun |    Mon     |    Tue     |    Wed     |    Thu     |    Fri     | Sat |
