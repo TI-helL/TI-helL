@@ -27,9 +27,9 @@
 AAA ~ CC 19개 등급<br>
 notch distance 분석을 위해 1 ~ 19로 계산<br>
 ### 금융섹터변수
-![금융섹터 변수](./image/A_comparative_study_NN_SVM_and_DT_table1.jpg)
+![금융섹터 변수](./image/A_comparative_study_NN_SVM_and_DT_table1.png)
 ### 에너지, 헬스케어 섹터 변수
-![에너지, 헬스케어 섹터 변수](./image/A_comparative_study_NN_SVM_and_DT_table2.jpg)
+![에너지, 헬스케어 섹터 변수](./image/A_comparative_study_NN_SVM_and_DT_table2.png)
 
 ## 성능측정방법
 - 10-fold 교차 검증 사용

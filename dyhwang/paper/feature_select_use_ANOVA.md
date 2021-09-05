@@ -8,6 +8,6 @@
 
 ## ANOVA 적용 결과
 ANOVA 적용 결과 테이블
-![ANOVA 적용 결과 테이블](./image/Feature_select_use_ANOVA_1.jpg)<br>
+![ANOVA 적용 결과 테이블](./image/Feature_select_use_ANOVA_1.png)<br>
 위 테이블에서 ANOVA 결과인 p-value를 살펴보면 3, 5, 9, 17, 19, 20 변수의 값이 높은 것을 볼 수 있는데, 이는 해당변수가 신용등급 변화에 기여하지 않는다는 것이다.<br>
 이런식으로 간단하게 넓은 특징공간을 축소 시켜 학습시간과 결과를 향상시킬 수 있으나 단일 변수를 대상으로 분석하였기 때문에 복합 변수에서의 영향은 분석하기 어렵다.
