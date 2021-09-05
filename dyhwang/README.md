@@ -24,3 +24,10 @@ cpu_monitoring<br>
 download_form_googledrive<br>
 useMemo_useCallback<br>
 useRef<br>
+
+## 5W
+A_comparative_study_of_forecasting_Corporate_Credit_Ratings_using_NN_SVM_and_DT_1<br>
+A_comparative_study_of_forecasting_Corporate_Credit_Ratings_using_NN_SVM_and_DT_2<br>
+feature_select_use_ANOVA<br>
+LaTex_math_exp<br>
+LaTex_hot_sign<br>
