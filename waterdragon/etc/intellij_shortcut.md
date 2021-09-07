@@ -1,0 +1,43 @@
+# intellij 단축키 정리
+
+- CMD + N : 제네레이트 (컨스트럭터, 게터 셋터)
+- CMD + SHIFT + N (scratch 파일 생성)
+- CMD + OPT + L 하면 auto formating
+- 실행/디버깅
+  - CTRL + D : 디버깅
+  - CTRL + OPT + D : 여러 configuration들이 존재할때 특정 - configuration 선택할 수 있는 창을 띄움
+  - CTRL + SHIFT + D : 현재 커서가 있는 파일 또는 유닛테스트를 build & debug
+  - 참고: 위 세가지 단축키의 D 대신 R을 입력하면 디버깅 대신 실행 모드로 동작
+  - F8: 디버깅 중에 누르면 next line으로 진행
+  - CMD + OPT + R : 현재 브레이크포인트에 멈춰있는 어플리케이션을 Resume
+  - CMD + F8 : 현재 커서에 브레이크 포인트 토글
+  - CMG + , : InterlliJ 전체 설정
+  - CMD + ; : 프로젝트 설정
+  - OPT + ENTER : 밑줄친 곳에서 추가액션
+  - lint 적용, 오타 보정, error correction 등등 다양한 액션 가능
+- 아이템 찾기
+  - CMD + (SHIFT or OPT) + O : find symbols, files
+  - CMD + SHIFT + a : find actions (인텔리제이의 수많은 메뉴와 기능들을 - 찾기 힘들때는 이곳을 통해서 검색할것)
+  - SHIFT 2회 : find all
+  - CMD + E : 최근 열었던 파일 목록
+- 텍스트 찾기
+  - CMD + SHIFT + F
+  - text 전체 찾기
+  - scope 지정 가능
+  - CMD + SHIFT + R
+  - text 전체 Replace
+  - CMD + F12 : current file’s structure
+- 코드 찾기
+  - OPT + F7 : find usage
+  - CTRL + OPT + H: call hierachy
+  - CTRL + H: type hierachy
+  - CMD + Click: Jump to definition
+  - CMD + OPT + Click: Jump to Implementation
+  - interface를 구현한 구현체들을 검색해서 이동
+  - CMD + DELETE : 현재 커서가있는 한줄 삭제
+  - OPT + F1 → 1 : 현재파일 프로젝트 트리에서 열기
+  - SHIFT + F6 : 이름 바꾸기 (refactor)
+  - CMD + SHIFT + V : 클립보드 히스토리 보기
+- 네비게이션
+  - CMD + [ : 뒤로 이동
+  - CMD + ] : 앞으로 이동
