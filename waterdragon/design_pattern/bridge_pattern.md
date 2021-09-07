@@ -167,7 +167,7 @@ public class Main{
 }
 ```
 
-![image](https://user-images.githubusercontent.com/24540286/132331299-40c9ea4a-bcec-48af-9e29-a57699a3fea1.png)
+<img src="https://user-images.githubusercontent.com/24540286/132331299-40c9ea4a-bcec-48af-9e29-a57699a3fea1.png" width=140/>
 
 ### Bridge 패턴의 등장인물
 
