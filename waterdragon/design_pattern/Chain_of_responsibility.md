@@ -131,7 +131,7 @@ public class SpecialSupport extends Support {
         this.number = number;
     }
     protected boolean resolve(Trouble trouble){
-        if(trouble.getNumber == number){
+        if(trouble.getNumber() == number){
             return true;
         }
         return false;
@@ -198,31 +198,3 @@ Chain of Responsibility 패턴의 포인트틑 요청을 하는 사람(Client)�
 
 ### 처리의 지연???
 누군가 요청을 처리할 것인지 미리 정해져 있고 그 상대가 바로 처리하는 경우와 Chain of Responsibility를 비교하면 처리에서 지연될 수 있다. 요구와 처리자의 관계가 고정적이고 처리속도가 상당히 중요한 경우에는 Chain of Respolsibility 패턴을 사용하지 않는 편이 유효할 수도 있다.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
