@@ -169,7 +169,8 @@ public class Main{
 
 ### 실행 결과
 alice가 처리하지 못하면 bob이 bob이 처리하지 못하면 charlie가 charlie가 처리하지 못하면 diana가 diana가 처리하지 못하면 elmo가 elmo가 처리하지 못하면 fred가 처리하듯이 처리를 떠넘길수 있다.
-<img src="https://user-images.githubusercontent.com/24540286/132453589-6a4aabb7-527e-4b01-8bfb-697b6ee95b67.png" width=80%>
+
+<img src="https://user-images.githubusercontent.com/24540286/132453589-6a4aabb7-527e-4b01-8bfb-697b6ee95b67.png" width=50%>
 
 ## Chain of Reponsibility 패턴의 역할
 
