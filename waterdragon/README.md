@@ -22,3 +22,4 @@
 - 2021년 9월 5일  : [pv and pvc](./k8s/pv_pvc.md)
 - 2021년 9월 6일  : [intellij short chut](./etc/intellij_shortcut.md)
 - 2021년 9월 7일  : [Bridge Desigh Pattern](./design_pattern/bridge_pattern.md)
+- 2021년 9월 8일  : [Chain of Responsibility Pattern](./design_pattern/Chain_of_responsibility.md)
