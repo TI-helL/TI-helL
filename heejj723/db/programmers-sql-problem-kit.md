@@ -1,5 +1,7 @@
-SQL 
+programmers-sql-problem-kit.md
 
+### 조회
+---
 1. 특정 문자열을 잘라서 숫자로 변환 후 정렬하기 
 
 SELECT * FROM ANIMAL_INS
@@ -17,7 +19,9 @@ ORDER BY NAME ASC, DATETIME DESC;
 SELECT MAX(DATETIME) as '시간'
 FROM ANIMAL_INS;
 
+---
 
+### SQL Operations
 4. 모든 레코드의 수
 
 SELECT count(*) from ANIMAL_INS;
@@ -48,11 +52,16 @@ GROUP BY HOUR
 HAVING HOUR >= 9 AND HOUR <= 20
 ORDER BY HOUR ASC;
 
+---
+### Null 처리 등
+
 9. Null 처리
 SELECT ANIMAL_TYPE, IFNULL(NAME, 'No name'), SEX_UPON_INTAKE
 FROM ANIMAL_INS
 ORDER BY (SELECT RIGHT(ANIMAL_ID, 6)) ASC;
 
+---
+### Join
 10. Left Outer join
 - Left outer join on one.job = two.job 일 때, 
     - Table one 을 기준으로 two 의 모든 컬럼을 붙인다.
