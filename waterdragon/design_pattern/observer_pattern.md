@@ -91,7 +91,7 @@ GraphObserver 클래스는 관찰한 수를 간이 그래프로 표시한다.
 
 ```java
 public class GraphObserver implements Observer{
-    public void update(NumberGenerator generator0){
+    public void update(NumberGenerator generator){
         System.out.print("GraphObserver:");
         int count = generator.getNumber();
         for(int i = 0; i<count; i++){
