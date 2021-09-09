@@ -124,7 +124,7 @@ public class Main{
 ```
 
 ### 실행 결과
-<img src="https://user-images.githubusercontent.com/24540286/132610722-97de9bc1-1900-4bdf-a23b-8452147afce0.png" width=50%>
+<img src="https://user-images.githubusercontent.com/24540286/132610722-97de9bc1-1900-4bdf-a23b-8452147afce0.png" width=30%>
 
 
 ## Observer 패턴의 역할
