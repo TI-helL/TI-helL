@@ -31,3 +31,10 @@ A_comparative_study_of_forecasting_Corporate_Credit_Ratings_using_NN_SVM_and_DT_
 feature_select_use_ANOVA<br>
 LaTex_math_exp<br>
 LaTex_hot_sign<br>
+
+## 6W
+airflow/airflow_words<br>
+airflow/install_airflow<br>
+linux/python_version_change<br>
+kaggle/german_credir_risk/problem<br>
+kaggle/german_credir_risk/notebook_1<br>
