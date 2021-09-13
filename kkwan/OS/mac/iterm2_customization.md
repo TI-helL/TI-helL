@@ -135,8 +135,7 @@ iterm2colorschemes을 이용할 경우 원하는 Color Preset을 찾은 후, Col
 > 예시로, MaterialOcean이라는 Color Preset을 적용하고자 할 때, Color Preset 이름을 우클릭하여 `다른 이름으로 링크 저장 ...`을 클릭하고, 파일이름을 `MaterialOcean.itermcolors`로 저장한다.
 
 ![MaterialOcean](./img/MaterialOcean.png)
-
-<p align="center"><img src="./img/menu_list.png"></p>
+![menu list](./img/menu_list.png)
 
 ### 5. SIB(Simple is Best) Style
 
