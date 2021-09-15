@@ -25,3 +25,4 @@
 - 2021년 9월 8일  : [Chain of Responsibility Pattern](./design_pattern/Chain_of_responsibility.md)
 - 2021년 9월 9일  : [Observer Pattern](./design_pattern/observer_pattern.md)
 - 2021년 9월 10일 : [helm chart](./k8s/helm.md)
+- 2021년 9월 13일 : [multi_container_limit_resource](./k8s/multi_container_limit_range.md)
