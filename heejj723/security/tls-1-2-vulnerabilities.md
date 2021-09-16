@@ -2,12 +2,8 @@
 
 1. 키 교환 알고리즘 & PFS
 
-<<<<<<< HEAD
-    ![img1.daumcdn.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3d2e3267-bcf0-4065-adf5-80d84b97b059/img1.daumcdn.png)
-=======
-    ![img1 daumcdn](https://user-images.githubusercontent.com/45758481/133553813-8bf69001-0bbe-419c-8912-b79ea600ae7f.png)
+![img1 daumcdn](https://user-images.githubusercontent.com/45758481/133556417-ab83af2e-42bf-40a9-a926-5c42e6fe5818.png)
 
->>>>>>> 08e60deeaa9b21d46c3a4e0b8c60fb3cd6c9a25f
 
     1. 1.2 에서는 PFS 보장 안함
 
