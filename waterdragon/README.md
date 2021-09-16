@@ -28,3 +28,4 @@
 - 2021년 9월 13일 : [multi_container_limit_resource](./k8s/multi_container_limit_range.md)
 - 2021년 9월 14일 : 연차 휴가
 - 2021년 9월 15일 : [Memento Pattern](./design_pattern/Memento_pattern.md)
+- 2021년 9월 16일 : [Proxy Pattern](./design_pattern/proxy_pattern.md)
