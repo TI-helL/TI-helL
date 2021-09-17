@@ -12,3 +12,4 @@
 [2021.09.09] [next.js deploy](./nextjs/deploy.md)  
 
 [2021.09.15] [생존형 Docker 학습](./docker/docker.md)  
+[2021.09.17] [Typescript의 Utility Types](./typescript/utility_types.md)
