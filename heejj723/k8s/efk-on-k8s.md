@@ -2,7 +2,7 @@
 
 ## EFK?
 
-**`EFK`**란 **`E`**lasticserach, **`F`**luentd, **`K`**ibana 3가지 오픈소스의 조합으로
+`EFK`란 `E`lasticserach, `F`luentd, `K`ibana 3가지 오픈소스의 조합으로
 log를 통합하여 관리감독하기 위해 사용되고 있다. </br>
 
 
@@ -64,7 +64,7 @@ Fluentd 같은 데이터 수집 파이프라인으로 `Logstash`, `Fluentd`, `Fl
     - 주기능은 Forwarder
     - 클라이언트의 로그를 수집하는데 특화 됨
     
-[출처]: @moonjuhyeon 님
+[출처]: @moonjuhyeon 님 
 
 ## 개발 서버에 k8s와 함께 띄워보자
 
@@ -321,3 +321,16 @@ spec:
 > Fluentd 는 모든 node 에 생성되어야 모든 노드에 대해 로그 수집이 가능하다. </br>
 > 따라서 Daemonset 으로 배포되어야 한다.
 
+<img width="1326" alt="스크린샷 2021-09-17 오후 11 25 57" src="https://user-images.githubusercontent.com/45758481/133799107-bb5fe8f0-cd1a-4f04-9fe0-ccb80413263d.png">
+
+연동 성공하면 kibana 에서는 이런 화면을 볼 수 있다.
+
+왼쪽 메뉴 클릭 -> Management -> StackManagement -> Index Patterns -> Create index pattern
+<img width="1327" alt="스크린샷 2021-09-17 오후 11 27 30" src="https://user-images.githubusercontent.com/45758481/133799382-5570588d-187d-4092-90da-b0f232b38ccb.png">
+
+이후 index name 지정 후, @timestamp 로 설정하면, Discover 메뉴에서 시간대에 따라 로그가 얼마나 찍히는지 볼 수 있다.
+
+<img width="1070" alt="스크린샷 2021-09-17 오후 11 29 41" src="https://user-images.githubusercontent.com/45758481/133800012-6d910900-fb51-413c-b21b-2333934e85c2.png">
+
+
+index 를 어떻게 지정하느냐에 따라 다양한 시각화 도구를 제공해준다.
