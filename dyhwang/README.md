@@ -42,3 +42,4 @@ kaggle/german_credit_risk/notebook<br>
 ## 7W
 kaggle/german_credit_risk/train_model<br>
 spark/pyspark-jupyter_docker_install<br>
+nodejs/dotenv<br>
