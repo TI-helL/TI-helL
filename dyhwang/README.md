@@ -36,5 +36,9 @@ LaTex_hot_sign<br>
 airflow/airflow_words<br>
 airflow/install_airflow<br>
 linux/python_version_change<br>
-kaggle/german_credir_risk/problem<br>
-kaggle/german_credir_risk/notebook_1<br>
+kaggle/german_credit_risk/problem<br>
+kaggle/german_credit_risk/notebook<br>
+
+## 7W
+kaggle/german_credit_risk/train_model<br>
+spark/pyspark-jupyter_docker_install<br>
