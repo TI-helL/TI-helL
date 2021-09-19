@@ -15,3 +15,6 @@
 [2021.09.17] [Typescript의 Utility Types](./typescript/utility_types.md)  
 [2021.09.17] [맨땅에 헤딩하는 Nestjs ep.0](./nestjs/000.md)  
 [2021.09.18] [맨땅에 헤딩하는 Nestjs ep.1](./nestjs/001.md)  
+[2021.09.19] [VIM 마스터하기 1](./nvim/mastering_for_vim_1.md)  
+
+[2021.09.20] [VIM 마스터하기 2](./nvim/mastering_for_vim_2.md)

@@ -8,9 +8,18 @@
 
 창 split 하기
 
-> command w + hjkl 
+> control w + hjkl 
 
-split된 창 이동
+split 된 창을 hjkl 방향에 따라 이동
+
+> control w + w
+
+split 된 창 이동
+
+> :bd
+
+split 된 window는 :q로 종료해도 버퍼에 계속 메모리를 잡고 있다.  
+split 된 window를 끌때는 :bd 를 이용해 버퍼를 지우자
 
 > gd (lspconfig)
 
