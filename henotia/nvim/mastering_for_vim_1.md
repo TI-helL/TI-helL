@@ -19,7 +19,7 @@ vim에서 주로 사용되는 동사류는 다음과 같다.
 
 * d -> Delete
 * c -> Change (삭제 후 insert mode 전환)
-* > -> Indent
+* \> -> Indent
 * v -> Visually Select (블락 지정으로 이해하면 편함)
 * y -> Yank (복사)
 
