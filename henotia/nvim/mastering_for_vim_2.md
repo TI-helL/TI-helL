@@ -1,6 +1,6 @@
 # VIM 마스터 하기 2
 
-## Relativd Numbers
+## Relative Numbers
 
 한번에 여러 줄을 지운다거나, 여러 줄을 복사 할 때 line 수를 일일이 계산하기 어려울 경우가 더러 있다.  
 이 경우 `relativenumber` 옵션을 통해 처리해줄 수 있다.
@@ -17,7 +17,7 @@ v, V 를 눌러 시각적으로 확인할 수 있는 block을 지정할 수 있�
 v는 글자 하나하나 지정할 수 있으면 `VISUAL` 로 표현  
 V는 라인기반 block이며 `V-LINE`으로 표현  
 
-## nerdTree
+## Nerd Tree
 
 ![NerdTree](./_img/nerdtree.png)
 
