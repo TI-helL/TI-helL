@@ -24,6 +24,19 @@ if has("nvim")
   Plug 'kyazdani42/nvim-web-devicons'
   " lualine.nvim
   Plug 'hoob3rt/lualine.nvim'
+  " Markdown plugin
+  Plug 'plasticboy/vim-markdown'
+  " emmet plugin
+  Plug 'mattn/emmet-vim'
+  " Nerd Tree
+  Plug 'scrooloose/nerdtree'
+  Plug 'Xuyuanp/nerdtree-git-plugin'
+  Plug 'ryanoasis/vim-devicons'
+  Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
+  " Markdown Preview
+  Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
+
+
 endif
 
 call plug#end()

@@ -11,7 +11,7 @@ if !1 | finish | endif
 set nocompatible
 set number
 syntax enable
-set fileencodings=utf-8,sjis,euc-jp,latin
+set fileencodings=utf-8,euc-kr,latin
 set encoding=utf-8
 set title
 set autoindent
@@ -24,7 +24,7 @@ set laststatus=2
 set scrolloff=10
 set expandtab
 "let loaded_matchparen = 1
-set shell=fish
+set shell=zsh
 set backupskip=/tmp/*,/private/tmp/*
 
 " incremental substitution (neovim)
@@ -132,16 +132,24 @@ if exists("&termguicolors") && exists("&winblend")
   set wildoptions=pum
   set pumblend=5
   set background=dark
-  " Use onedark
+  " Use NeoSolarized
+  " let g:neosolarized_termtrans=1
   runtime ./colors/onedark.vim
   colorscheme onedark
 endif
 
 "}}}
 
+
 " Extras "{{{
 " ---------------------------------------------------------------------
 set exrc
 "}}}
+
+" markdown
+let g:vim_markdown_folding_disabled = 1
+
+" emmet
+
 
 " vim: set foldmethod=marker foldlevel=0:
