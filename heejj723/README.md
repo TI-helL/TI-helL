@@ -15,5 +15,8 @@
 `[2021-09-13]` [shortest-path-dijkstra.md](https://github.com/TI-helL/TI-helL/blob/main/heejj723/cs/algorithm/shortest-path-dijkstra.md) </br>
 `[2021-09-15]` [tls-1-2-vulnerabilities.md](https://github.com/TI-helL/TI-helL/blob/main/heejj723/security/tls-1-2-vulnerabilities.md) </br>
 `[2021-09-17]` [efk-on-k8s.md](https://github.com/TI-helL/TI-helL/blob/main/heejj723/k8s/efk-on-k8s.md) </br>
-`[2021-09-19]` [web-mvc-teest.md](https://github.com/TI-helL/TI-helL/blob/main/heejj723/spring/web-mvc-test.md) </br>
+`[2021-09-19]` [web-mvc-test.md](https://github.com/TI-helL/TI-helL/blob/main/heejj723/spring/web-mvc-test.md) </br>
+`[2021-09-26]` [메모리 구조](https://github.com/TI-helL/TI-helL/blob/main/heejj723/cs/operating-system/memory-structure.md) </br>
+`[2021-09-26]` [N+1 문제 원인과 해결 방법](https://github.com/TI-helL/TI-helL/blob/main/heejj723/jpa/n1-problem.md) </br>
+
 
