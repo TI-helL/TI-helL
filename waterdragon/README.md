@@ -31,3 +31,4 @@
 - 2021년 9월 16일 : [Proxy Pattern](./design_pattern/proxy_pattern.md)
 - 2021년 9월 23일 : [k8s Service Endpoint](./k8s/service_endpoint.md)
 - 2021년 9월 24일 : [k8s configmap](./k8s/configmap.md)
+- 2021년 9월 27일 : [k8s job](./k8s/job.md)
