@@ -34,3 +34,4 @@
 - 2021년 9월 27일 : [k8s job](./k8s/job.md)
 - 2021년 9월 28일 : [k8s secret](./k8s/secret.md)
 - 2021년 9월 29일 : [deployment method](./etc/deploy_method.md)
+- 2021년 9월 30일 : [POSIX/GNU command style](./etc/posix_gnu_command.md)
