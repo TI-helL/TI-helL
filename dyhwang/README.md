@@ -43,3 +43,11 @@ kaggle/german_credit_risk/notebook<br>
 kaggle/german_credit_risk/train_model<br>
 spark/pyspark-jupyter_docker_install<br>
 nodejs/dotenv<br>
+focus_blur<br>
+
+## 8W
+spark/pyspark-jupyter_docker_install<br>
+airflow/airflow_spark_provider_install<br>
+airflow/airflow_java_requirment<br>
+airflow/airflow_spark-submit_connection<br>
+airflow/airflow_spark_DAG_test<br>
