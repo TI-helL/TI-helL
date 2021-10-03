@@ -19,3 +19,6 @@
 `[2021-09-26]` [메모리 구조](https://github.com/TI-helL/TI-helL/blob/main/heejj723/cs/operating-system/memory-structure.md) </br>
 `[2021-09-26]` [N+1 문제 원인과 해결 방법](https://github.com/TI-helL/TI-helL/blob/main/heejj723/jpa/n1-problem.md) </br>
 `[2021-09-30]` [HTTP에 대하여](https://github.com/TI-helL/TI-helL/blob/main/heejj723/cs/network/http.md) </br>
+`[2021-10-03]` [트리 순회 방법](https://github.com/TI-helL/TI-helL/blob/main/heejj723/cs/data-structure/tree-pre-in-post-order.md) </br>
+`[2021-10-03]` [네티 등장 배경과 Java N/IO](https://github.com/TI-helL/TI-helL/blob/main/heejj723/cs/network/netty-background.md) </br>
+`[2021-10-03]` [programmers_12927](https://github.com/TI-helL/TI-helL/blob/main/heejj723/cs/algorithm/programmers_12927.md) </br>
