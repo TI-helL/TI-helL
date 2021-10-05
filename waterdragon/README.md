@@ -31,3 +31,8 @@
 - 2021년 9월 16일 : [Proxy Pattern](./design_pattern/proxy_pattern.md)
 - 2021년 9월 23일 : [k8s Service Endpoint](./k8s/service_endpoint.md)
 - 2021년 9월 24일 : [k8s configmap](./k8s/configmap.md)
+- 2021년 9월 27일 : [k8s job](./k8s/job.md)
+- 2021년 9월 28일 : [k8s secret](./k8s/secret.md)
+- 2021년 9월 29일 : [deployment method](./etc/deploy_method.md)
+- 2021년 9월 30일 : [POSIX/GNU command style](./etc/posix_gnu_command.md)
+- 2021년 10월 01일 : [pod 구성 패턴](./k8s/pod_pattern.md)
