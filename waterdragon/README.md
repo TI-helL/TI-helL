@@ -38,3 +38,4 @@
 - 2021년 10월 01일 : [pod 구성 패턴](./k8s/pod_pattern.md)
 - 2021년 10월 05일 : [Spring WebClient](./spring/webClient.md)
 - 2021년 10월 6일 : [Mono](./spring/mono.md)
+- 2021년 10월 7일 : [pod lifecycle](./k8s/pod_lifecycle.md)
