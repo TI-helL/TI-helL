@@ -53,7 +53,7 @@ airflow/airflow_spark-submit_connection<br>
 airflow/airflow_spark_DAG_test<br>
 
 ## 9W
-pyspark_basic_parallelize<br>
-spark_words<br>
-os_file_control<br>
-shutil<br>
+spark/pyspark_basic_parallelize<br>
+spark/spark_words<br>
+python/os_file_control<br>
+python/shutil<br>
