@@ -17,4 +17,6 @@
 [2021.09.18] [맨땅에 헤딩하는 Nestjs ep.1](./nestjs/001.md)  
 [2021.09.19] [VIM 마스터하기 1](./nvim/mastering_for_vim_1.md)  
 
-[2021.09.22] [VIM 마스터하기 2](./nvim/mastering_for_vim_2.md)
+[2021.09.22] [VIM 마스터하기 2](./nvim/mastering_for_vim_2.md)  
+
+[2021.10.12] [Mac에서 Apache 세팅](./apache/setting.md)
