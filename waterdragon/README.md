@@ -41,3 +41,4 @@
 - 2021년 10월 7일 : [pod lifecycle](./k8s/pod_lifecycle.md)
 - 2021년 10월 8일 : [pod hostname and domain](./k8s/using_domain.md)
 - 2021년 10월 12일 : [design and architecture](./clean_architecture/design_and_architecture.md)
+- 2021년 10월 13일 : [encapsulation in c](./clean_architecture/Encapsulation_in_C.md)
