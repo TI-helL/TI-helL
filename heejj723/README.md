@@ -23,3 +23,6 @@
 `[2021-10-03]` [네티 등장 배경과 Java N/IO](https://github.com/TI-helL/TI-helL/blob/main/heejj723/cs/network/netty-background.md) </br>
 `[2021-10-03]` [programmers_12927](https://github.com/TI-helL/TI-helL/blob/main/heejj723/cs/algorithm/programmers_12927.md) </br>
 `[2021-10-05]` [문자열 표현 방식](https://github.com/TI-helL/TI-helL/blob/main/heejj723/etc/camel-case.md) </br>
+`[2021-10-07]` [Spring WebClient 사용하기](https://github.com/TI-helL/TI-helL/blob/main/heejj723/spring/webclient-instead-rest-template.md) </br>
+`[2021-10-15]` [JVM 구조](https://github.com/TI-helL/TI-helL/blob/main/heejj723/java/what-is-jvm.md) </br>
+`[2021-10-15]` [JVM 특징과 Symbolic Reference](https://github.com/TI-helL/TI-helL/blob/main/heejj723/java/jvm-symbolic-reference.md) </br>
