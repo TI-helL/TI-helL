@@ -44,3 +44,4 @@
 - 2021년 10월 13일 : [encapsulation in c](./clean_architecture/Encapsulation_in_C.md)
 - 2021년 10월 14일 : [extend in c](./clean_architecture/extend_in_c.md)
 - 2021년 10월 15일 : [dependency inversion](./clean_architecture/dependency_inversion.md)
+- 2021년 10월 18일 : [SOLID](./clean_architecture/SOLID.md)
