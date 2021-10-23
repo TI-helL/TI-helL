@@ -46,3 +46,4 @@
 - 2021년 10월 15일 : [dependency inversion](./clean_architecture/dependency_inversion.md)
 - 2021년 10월 18일 : [SOLID](./clean_architecture/SOLID.md)
 - 2021년 10월 19일 : [SRP](./clean_architecture/SRP.md)
+- 2021년 10월 20일 : [meaningful name](./clean_code/meaningful_name.md)
