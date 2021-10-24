@@ -57,3 +57,16 @@ spark/pyspark_basic_parallelize<br>
 spark/spark_words<br>
 python/os_file_control<br>
 python/shutil<br>
+
+## 10W
+python/dataFrame_count<br>
+python/dataFrame_drop_nan<br>
+python/dictionary<br>
+python/NaN_value<br>
+
+## 11W
+python/dataframe_column_index_rename<br>
+python/dataframe_drop_duplicated<br>
+python/dataframe_index_duplicated<br>
+python/dataFrame_merge_concat<br>
+python/dataFrame_display_option<br>
