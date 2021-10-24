@@ -1,4 +1,4 @@
-### HELLO! 
+### HELLO!
 
 `상시 업데이트` [intellij-short-cut.md](https://github.com/TI-helL/TI-helL/blob/main/heejj723/etc/intellij-short-cut.md)
 
@@ -26,3 +26,6 @@
 `[2021-10-07]` [Spring WebClient 사용하기](https://github.com/TI-helL/TI-helL/blob/main/heejj723/spring/webclient-instead-rest-template.md) </br>
 `[2021-10-15]` [JVM 구조](https://github.com/TI-helL/TI-helL/blob/main/heejj723/java/what-is-jvm.md) </br>
 `[2021-10-15]` [JVM 특징과 Symbolic Reference](https://github.com/TI-helL/TI-helL/blob/main/heejj723/java/jvm-symbolic-reference.md) </br>
+`[2021-10-16]` [Field Injection 이 추천되지 않는 이유](https://github.com/TI-helL/TI-helL/blob/main/heejj723/spring/di-3way-no-autowired.md)</br>
+`[2021-10-19]` [상속과 구현](https://github.com/TI-helL/TI-helL/blob/main/heejj723/java/extends-impl.md)</br>
+`[2021-10-24]` [Web Server 와 WAS 의 개념](https://github.com/TI-helL/TI-helL/blob/main/heejj723/web/web-was-diff.md)</br>
