@@ -19,4 +19,7 @@
 
 [2021.09.22] [VIM 마스터하기 2](./nvim/mastering_for_vim_2.md)  
 
-[2021.10.12] [Mac에서 Apache 세팅](./apache/setting.md)
+[2021.10.12] [Mac에서 Apache 세팅](./apache/setting.md)  
+
+[2021.10.24] [숫자 문자열과 영단어](./algorithm/programmers/81301.md)  
+[2021.10.25] [생존형 Docker 학습 2](./docker/docker2.md)
