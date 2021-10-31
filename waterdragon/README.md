@@ -46,6 +46,8 @@
 - 2021년 10월 15일 : [dependency inversion](./clean_architecture/dependency_inversion.md)
 - 2021년 10월 18일 : [SOLID](./clean_architecture/SOLID.md)
 - 2021년 10월 19일 : [SRP](./clean_architecture/SRP.md)
-- 2021년 10월 20일 : [meaningful name](./clean_code/meaningful_name.md)
+- 2021년 10월 20일 : 오후반차
 - 2021년 10월 21일 : [wrong variable name](./clean_code/wrong_variable_name.md)
 - 2021년 10월 22일 : [meaingful distinction](./clean_code/meaningful_distinction.md)
+- 2021년 10월 25일 : [stable abstraction](./clean_architecture/stable_abstraction.md)
+- 2021년 10월 26일 : [meaningful name](./clean_code/meaningful_name.md)
