@@ -29,3 +29,7 @@
 `[2021-10-16]` [Field Injection 이 추천되지 않는 이유](https://github.com/TI-helL/TI-helL/blob/main/heejj723/spring/di-3way-no-autowired.md)</br>
 `[2021-10-19]` [상속과 구현](https://github.com/TI-helL/TI-helL/blob/main/heejj723/java/extends-impl.md)</br>
 `[2021-10-24]` [Web Server 와 WAS 의 개념](https://github.com/TI-helL/TI-helL/blob/main/heejj723/web/web-was-diff.md)</br>
+<<<<<<< HEAD
+=======
+`[2021-10-28]` [HTTP query type 과 멱등성 그리고 자기 반성^^](https://github.com/TI-helL/TI-helL/blob/main/heejj723/web/param-type.md)</br>
+>>>>>>> 65838278072de8893d7cb390ba1743f566aff8f9

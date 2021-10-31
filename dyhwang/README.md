@@ -69,4 +69,15 @@ python/dataframe_column_index_rename<br>
 python/dataframe_drop_duplicated<br>
 python/dataframe_index_duplicated<br>
 python/dataFrame_merge_concat<br>
+<<<<<<< HEAD
 python/dataFrame_display_option<br>
+=======
+python/dataFrame_display_option<br>
+
+## 12W
+python/dadaframe_funtional<br>
+python/dataframe_sort<br>
+python/dataframe_rank<br>
+python/dataframe<br>
+python/dataframe_filtering<br>
+>>>>>>> 65838278072de8893d7cb390ba1743f566aff8f9
