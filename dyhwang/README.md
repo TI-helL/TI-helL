@@ -77,3 +77,9 @@ python/dataframe_sort<br>
 python/dataframe_rank<br>
 python/dataframe<br>
 python/dataframe_filtering<br>
+
+## 13W
+python/regex_search_method<br>
+python/string_similaarity<br>
+python/sort_method<br>
+python/zip_method<br>
