@@ -12,4 +12,4 @@ The ThoughtWorks Anthology 의 6장 Object Calisthenic에서 좋은 객체지향
 6. [**Keep all entities small.**](./6_rule.md)
 7. [**Don’t use any classes with more than two instance variables.**](./7_rule.md)
 8. [**Use first-class collections.**](./8_rule.md)
-9. Don’t use any getters/setters/properties.
+9. [**Don’t use any getters/setters/properties.**](./9_rule.md)
