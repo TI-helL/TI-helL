@@ -54,3 +54,4 @@
 - 2021년 11월 2일 : [boundary line](./clean_architecture/boundary_line.md)
 - 2021년 11월 3일 : [boundary crossing](./clean_architecture/boundary_crossing.md)
 - 2021년 11월 4일 : [architecture level](./clean_architecture/architecture_level.md)
+- 2021년 11월 5일 : [business rules and usecase](./clean_architecture/business_rule_and_usecase.md)
