@@ -52,3 +52,4 @@
 - 2021년 10월 25일 : [stable abstraction](./clean_architecture/stable_abstraction.md)
 - 2021년 11월 1일 : [stability](./clean_architecture/stability.md)
 - 2021년 11월 2일 : [boundary line](./clean_architecture/boundary_line.md)
+- 2021년 11월 3일 : [boundary crossing](./clean_architecture/boundary_crossing.md)
