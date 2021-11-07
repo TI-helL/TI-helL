@@ -51,4 +51,4 @@
 - 2021년 10월 22일 : [meaingful distinction](./clean_code/meaningful_distinction.md)
 - 2021년 10월 25일 : [stable abstraction](./clean_architecture/stable_abstraction.md)
 - 2021년 11월 1일 : [stability](./clean_architecture/stability.md)
-- 2021년 11월 2일 : [boundary lint](./clean_architecture/boundary_line.md)
+- 2021년 11월 2일 : [boundary line](./clean_architecture/boundary_line.md)
