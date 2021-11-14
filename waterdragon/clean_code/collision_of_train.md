@@ -1,5 +1,5 @@
 # 디미터 법칙 - 기차 충돌
-다음 코드는 디미터 법칙을 어기는듯이 보인다.
+다음 코드는 디미터 법칙을 어기는듯이 보인다. (아파치 프레임워크에서 가져온 코드이다.)
 
 ```java
 final String outputDir = ctxt.getOptions().getScracthDir().getAbsolutePath();
