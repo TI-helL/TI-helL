@@ -20,4 +20,6 @@
 
 ## Pascal Case
 
+단어 첫 글자를 모두 대문자로 표현하는 방식
+
 > Today Visit Count -> TodayVisitCount
