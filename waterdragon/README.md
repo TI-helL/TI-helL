@@ -57,3 +57,4 @@
 - 2021년 11월 5일 : [business rules and usecase](./clean_architecture/business_rule_and_usecase.md)
 - 2021년 11월 8일 : [디미터 법칙](./clean_code/law_of_demeter.md)
 - 2021년 11월 9일 : [디미터 법칙(기차 충돌)](./clean_code/collision_of_train.md)
+- 2021년 11월 10일 : [디미터 법칙(구조체 감추기)](./clean_code/hide_struct.md)
