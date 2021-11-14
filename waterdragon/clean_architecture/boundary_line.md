@@ -17,5 +17,5 @@ DatabaseAccess에서 출발하는 두 화살표에 집중해야 한다. 이들 �
 화살표의 방향에 주목해야한다. Database는 BusinessRules에 대해 알고 있다. BusinessRules는 Database에 관해 알지 못한다.  
 이 선의 방향이 중요하다. BusinessRules에게 있어 Database 는 문제가 되지 않지만, Database는 BusinessRules 없이는 존재할 수가 없다. 
 
-**Database는 다야한 구현체로 교체될수 있으며 BusinessRules는 조금도 개의치 않는다.**  
+**Database는 다양한 구현체로 교체될수 있으며 BusinessRules는 조금도 개의치 않는다.**  
 데이터베이스의 종류는 다양하고 플랫파일로도 구현할 수가 있다. 이 같은 사실은 데이터베이스에 대한 결정을 최대한 연기할 수 있게 도와준다. 

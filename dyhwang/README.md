@@ -70,3 +70,16 @@ python/dataframe_drop_duplicated<br>
 python/dataframe_index_duplicated<br>
 python/dataFrame_merge_concat<br>
 python/dataFrame_display_option<br>
+
+## 12W
+python/dadaframe_funtional<br>
+python/dataframe_sort<br>
+python/dataframe_rank<br>
+python/dataframe<br>
+python/dataframe_filtering<br>
+
+## 13W
+python/regex_search_method<br>
+python/string_similaarity<br>
+python/sort_method<br>
+python/zip_method<br>
