@@ -83,3 +83,10 @@ python/regex_search_method<br>
 python/string_similaarity<br>
 python/sort_method<br>
 python/zip_method<br>
+
+## 14W
+spring/bean<br>
+spring/container<br>
+spring/Impedance_mismatches<br>
+spring/IoC<br>
+spring/orm<br>
