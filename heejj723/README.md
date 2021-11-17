@@ -32,3 +32,4 @@
 `[2021-10-27]` [[스프링 리액터 레퍼런스] 3.Reactor 소개](https://github.com/TI-helL/TI-helL/blob/main/heejj723/spring-reactor/3.%20introduction-reactive.md)</br>
 `[2021-11-01]` [JPA-Entity 간 양방향 연관관계의 주인](https://github.com/TI-helL/TI-helL/blob/main/heejj723/jpa/owner-of-relationship.md)</br>
 `[2021-11-17]` [스프링 IOC - 제어의 역전](https://github.com/TI-helL/TI-helL/blob/main/heejj723/spring/inversion-of-control.md)</br>
+`[2021-11-17]` [캐시 & DB 배치 전략](https://github.com/TI-helL/TI-helL/blob/main/heejj723/redis/caching-strategy-design.md)</br>
