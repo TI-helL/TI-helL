@@ -3,6 +3,7 @@
 - **Dirty Read**
     - 변경 후 아직 Commit 되지 않은 값 읽고, Rollback 후의 값을 다시 읽어 최종 결과 값이 상이한 현상
     - 공유 Lock 을 걸어서 T1 이 A 에 접근하는 동안 다른 트랜잭션은 접근 불가하도록 함
+<img width="649" alt="스크린샷 2021-11-20 오후 4 39 31" src="https://user-images.githubusercontent.com/45758481/142718681-34c544f0-b0e7-43b0-a4f7-2b6644513c88.png">
 
 - **Non Repeatable Read**
     - 같은 트랜젝션 내에서 읽기를 두번 했는데 그 값이 다른 현상
