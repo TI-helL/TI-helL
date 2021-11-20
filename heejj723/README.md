@@ -33,3 +33,5 @@
 `[2021-11-01]` [JPA-Entity 간 양방향 연관관계의 주인](https://github.com/TI-helL/TI-helL/blob/main/heejj723/jpa/owner-of-relationship.md)</br>
 `[2021-11-17]` [스프링 IOC - 제어의 역전](https://github.com/TI-helL/TI-helL/blob/main/heejj723/spring/inversion-of-control.md)</br>
 `[2021-11-17]` [캐시 & DB 배치 전략](https://github.com/TI-helL/TI-helL/blob/main/heejj723/redis/caching-strategy-design.md)</br>
+`[2021-11-20]` [DB 고립수준](https://github.com/TI-helL/TI-helL/blob/main/heejj723/cs/database/isolation-level.md)</br>
+`[2021-11-20]` [FetchOne vs FetchFirst](https://github.com/TI-helL/TI-helL/blob/main/heejj723/jpa/fetchfirst_fetchOne.md)</br>
