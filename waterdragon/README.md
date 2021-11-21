@@ -60,4 +60,5 @@
 - 2021년 11월 10일 : [디미터 법칙(구조체 감추기)](./clean_code/hide_struct.md)
 - 2021년 11월 11일 : [자료 전달 객체(DTO)](./clean_code/data_transfer_object.md)
 - 2021년 11월 15일 : [움퍼스 게임](./clean_architecture/hunt_the_wumpus.md)
-- 2021년 11월 16일 : [움퍼스 게임의 클린아키텍쳐](./clean_architecture/clean_architecture_with_wumpus01.md)
+- 2021년 11월 16일 : [움퍼스 게임의 클린아키텍쳐 01](./clean_architecture/clean_architecture_with_wumpus01.md)
+- 2021년 11월 17일 : [움퍼스 게임의 클린아키텍쳐 02](clean_architecture/clean_architecture_with_wumpus02.md)
