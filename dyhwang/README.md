@@ -87,6 +87,13 @@ python/zip_method<br>
 ## 14W
 spring/bean<br>
 spring/container<br>
-spring/Impedance_mismatches<br>
+spring/impedance_mismatches<br>
 spring/IoC<br>
 spring/orm<br>
+
+## 14W
+sprint/JPA<br>
+sprint/JPA_persistenceContext<br>
+sprint/JPA_drityChecking<br>
+sprint/MockMvcTest<br>
+sprint/orm<br>
