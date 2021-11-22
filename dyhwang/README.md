@@ -92,8 +92,11 @@ spring/IoC<br>
 spring/orm<br>
 
 ## 14W
-sprint/JPA<br>
-sprint/JPA_persistenceContext<br>
-sprint/JPA_drityChecking<br>
-sprint/MockMvcTest<br>
-sprint/orm<br>
+spring/JPA<br>
+spring/JPA_persistenceContext<br>
+spring/JPA_drityChecking<br>
+spring/MockMvcTest<br>
+spring/orm<br>
+
+## 15W
+angular/NgModule<br>
