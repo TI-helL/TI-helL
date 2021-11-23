@@ -20,7 +20,7 @@
 - 2021년 9월 1일  : [azure key vault with spring boot](./cloud_provider/azure_key_vault_with_java.md)
 - 2021년 9월 2일  : [spring Security PasswordEncoder](./spring/passwordEncoder.md)
 - 2021년 9월 5일  : [pv and pvc](./k8s/pv_pvc.md)
-- 2021년 9월 6일  : [intellij shortcut](./etc/intellij_shortcut.md)
+- 2021년 9월 6일  : [intellij short chut](./etc/intellij_shortcut.md)
 - 2021년 9월 7일  : [Bridge Desigh Pattern](./design_pattern/bridge_pattern.md)
 - 2021년 9월 8일  : [Chain of Responsibility Pattern](./design_pattern/Chain_of_responsibility.md)
 - 2021년 9월 9일  : [Observer Pattern](./design_pattern/observer_pattern.md)
@@ -62,5 +62,4 @@
 - 2021년 11월 15일 : [움퍼스 게임](./clean_architecture/hunt_the_wumpus.md)
 - 2021년 11월 16일 : [움퍼스 게임의 클린아키텍쳐 01](./clean_architecture/clean_architecture_with_wumpus01.md)
 - 2021년 11월 17일 : [움퍼스 게임의 클린아키텍쳐 02](clean_architecture/clean_architecture_with_wumpus02.md)
-- 2021년 11월 18일 : [움퍼스 게임의 클린아키텍쳐 03](clean_architecture/clean_architecture_with_wumpus03.md)
-- 2021년 11월 19일 : 연차 휴가
+- 2021년 11월 22일 : [테스트를 고려한 설계](clean_architecture/Design_with_test.md)
