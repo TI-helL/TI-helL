@@ -100,3 +100,7 @@ spring/orm<br>
 
 ## 15W
 angular/NgModule<br>
+python/sqlite3<br>
+spring/lombok<br>
+elastic_search/analyzer_setting<br>
+spring/javabeans_conventions<br>
