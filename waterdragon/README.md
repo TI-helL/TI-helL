@@ -63,3 +63,4 @@
 - 2021년 11월 16일 : [움퍼스 게임의 클린아키텍쳐 01](./clean_architecture/clean_architecture_with_wumpus01.md)
 - 2021년 11월 17일 : [움퍼스 게임의 클린아키텍쳐 02](clean_architecture/clean_architecture_with_wumpus02.md)
 - 2021년 11월 22일 : [테스트를 고려한 설계](clean_architecture/Design_with_test.md)
+- 2021년 11월 23일 : [데이터베이스는 세부사항이다](clean_architecture/database_is_detail.md)
