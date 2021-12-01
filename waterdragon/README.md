@@ -66,3 +66,4 @@
 - 2021년 11월 23일 : [데이터베이스는 세부사항이다](clean_architecture/database_is_detail.md)
 - 2021년 11월 29일 : [데이터베이스와 관련된 일화](clean_architecture/database_story.md)
 - 2021년 11월 30일 : [웹은 세부사항이다](clean_architecture/web_is_the_detail.md)
+- 2021년 12월 1일 : [프레임워크는 세부사항이다](clean_architecture/framework_is_the_detail.md)
