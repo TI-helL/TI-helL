@@ -69,3 +69,4 @@
 - 2021년 12월 1일 : [프레임워크는 세부사항이다](clean_architecture/framework_is_the_detail.md)
 - 2021년 12월 2일 : [인수테스트 기본 구조](test/acceptance_test.md)
 - 2021년 12월 13일 : [REST API](etc/REST_API.md)
+- 2021년 12월 14일 : [인수 객체](clean_code/method/argument_object.md)
