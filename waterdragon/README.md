@@ -73,3 +73,4 @@
 - 2021년 12월 15일 : [인수 목록](clean_code/method/argument_list.md)
 - 2021년 12월 16일 : [함수의 사이드 이펙트](clean_code/method/side_effect.md)
 - 2021년 12월 17일 : [명령과 조회를 분리하라](clean_code/method/separate_command_query.md)
+- 2021년 12월 29일 : [젠킨스 jdk 버전 설정](etc/jenkins_jdk_version.md)
