@@ -1,4 +1,4 @@
-# Primary Keu가 아닌 필드를 참조하는 Foreign Key 를 만들때
+# Primary Key 가 아닌 필드를 참조하는 Foreign Key 를 만들때
 
 ### @JoinColumn(referencedColumnName = [참조하는 필드 이름])
 
