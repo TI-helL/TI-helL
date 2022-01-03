@@ -4,7 +4,7 @@
 
 ### 기존 엔티티 수정 메커니즘
 
-![](../../../../../Desktop/jpa-persistent-dirty-checking.png)
+![jpa-persistent-dirty-checking](https://user-images.githubusercontent.com/45758481/147894382-b592c7cc-8baf-404d-9e2c-e51c6430c034.png)
 
 
 JPA 는 엔티티를 영속성 컨텍스트에 보관한 후, DB에 반영한다. </br>
@@ -22,7 +22,7 @@ _**기존 엔티티 수정 메커니즘은 다음과 같다.**_
 그러나 벌크 작업은 앞서 설명했던 것처럼 영속성 컨텍스트를 통하는 모든 작업을 생략한다.</br>
 그리고 DB에 직접 쿼리를 날린다.
 
-![](../../../../../Desktop/jpa-bulk.png)
+![jpa-bulk](https://user-images.githubusercontent.com/45758481/147894389-a34b5fc3-cf3e-433a-878b-2443afcb58e6.png)
 
 ### 그런데 JPA 를 통해 엔티티를 조회 시 반드시 1차 캐시를 먼저 본다.
 
