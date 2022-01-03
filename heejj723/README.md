@@ -35,3 +35,20 @@
 `[2021-11-17]` [캐시 & DB 배치 전략](https://github.com/TI-helL/TI-helL/blob/main/heejj723/redis/caching-strategy-design.md)</br>
 `[2021-11-20]` [DB 고립수준](https://github.com/TI-helL/TI-helL/blob/main/heejj723/cs/database/isolation-level.md)</br>
 `[2021-11-20]` [FetchOne vs FetchFirst](https://github.com/TI-helL/TI-helL/blob/main/heejj723/jpa/fetchfirst_fetchOne.md)</br>
+`[2021-11-25]` [Spring Dependency Injection 순서](https://github.com/TI-helL/TI-helL/blob/main/heejj723/spring/spring-di-order.md)</br>
+`[2021-11-25]` [JPA Entity Listener 에서 의존성 주입받기](https://github.com/TI-helL/TI-helL/blob/main/heejj723/jpa/jpa-entity-listener-di.md)</br>
+`[2021-12-08]` [PK 가 아닌 필드를 FK로 지정하고 싶을때](https://github.com/TI-helL/TI-helL/blob/main/heejj723/jpa/foreign_key_not_pk.md)</br>
+`[2021-12-13]` [Bean과 Component 차이](https://github.com/TI-helL/TI-helL/blob/main/heejj723/spring/component-vs-bean.md)</br>
+`[2021-12-13]` [Spring IOC Container 구조에 대해서](https://github.com/TI-helL/TI-helL/blob/main/heejj723/spring/ioc-container.md)</br>
+`[2021-12-15]` [PK 가 아닌 필드를 FK로 지정하고 싶을때](https://github.com/TI-helL/TI-helL/blob/main/heejj723/jpa/foreign_key_not_pk.md)</br>
+`[2022-01-03]` [JPA 벌크 데이터 작업 시 유의점](https://github.com/TI-helL/TI-helL/blob/main/heejj723/jpa/jpa-bulk-insert-doesnt-use-persistance-context.md)</br>
+`[2022-01-03]` [JPA Batch Insert 시 GenerationType 사용법](https://github.com/TI-helL/TI-helL/blob/main/heejj723/jpa/generation-type-identity-and-batch.md)</br>
+
+
+
+
+
+
+
+https://github.com/TI-helL/TI-helL/blob/main/heejj723/spring/spring-di-order.md
+
