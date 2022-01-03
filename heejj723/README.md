@@ -47,8 +47,3 @@
 
 
 
-
-
-
-https://github.com/TI-helL/TI-helL/blob/main/heejj723/spring/spring-di-order.md
-
