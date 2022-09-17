@@ -63,4 +63,4 @@ xlsx.utils.json_to_sheet(데이터): 워크시트 생성
 
 xlsx.utils.book_append_sheet(엑셀문서변수, 워크시트변수, ”워크시트 이름”): 엑셀 문서에 워크시트 추가
 
-xlsx.writeFile(엑셀문서변수, “문서이름” ): 파일 다운로드, 브러우져에서 다운로드 하라는 메세지가 나옴
+xlsx.writeFile(엑셀문서변수, “문서이름” ): 파일 다운로드, 브러우저에서 다운로드 하라는 메세지가 나옴
