@@ -11,6 +11,7 @@ radar차트는 pieRadarChartBase를 상속받고, pieRadarChartBase에서는 Pie
 ## 구조
 
 ![rader_chart_uml](../images/Radar_Chart_UML.PNG)
+
 위의 구조를 보면 3가지를 알 수 있다.
 
 - Chart class에서는 mChartTouchListener와 mOnChartGestureListener를 가지고있다.
