@@ -46,8 +46,7 @@
 
 ### W1
 
-- MVC_MVP_MVVM
-- intent
-- startActivityForResult
-- chartLib_gesture_custom
-- kotlin_null_check
+- [MVC_MVP_MVVM](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/MVC_MVP_MVVM.md)
+- [startActivityForResult](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/startActivityForResult.md)
+- [chartLib_gesture_custom](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/chartLib_gesture_custom.md)
+- [kotlin_start_cast_error](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/KOTLIN/kotlin_start_cast_error.md)
