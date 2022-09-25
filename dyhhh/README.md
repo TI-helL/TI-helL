@@ -50,3 +50,9 @@
 - [startActivityForResult](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/startActivityForResult.md)
 - [chartLib_gesture_custom](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/chartLib_gesture_custom.md)
 - [kotlin_start_cast_error](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/KOTLIN/kotlin_start_cast_error.md)
+
+### W2
+
+- [intent](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/intent.md)
+- [recyclerView](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/recyclerView.md)
+- [fragment_and_lifecycle](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/fragment_and_lifecycle.md)
