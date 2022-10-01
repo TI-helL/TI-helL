@@ -9,13 +9,13 @@
 1. Spring Initializr
     - 프로젝트 생성
 
-![Untitled](Spring%20+%20JPA%20+%20Querydsl%20-%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%20%E1%84%89%E1%85%A6%E1%84%90%E1%85%B5%E1%86%BC%2083d2d172b5d5482aa6a5d70fe7262255/Untitled.png)
+![Untitled](../images/JPA_QUERYDSL/Untitled.png)
 
 ---
 
 - 프로젝트 dependency 추가
 
-![Untitled](Spring%20+%20JPA%20+%20Querydsl%20-%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%20%E1%84%89%E1%85%A6%E1%84%90%E1%85%B5%E1%86%BC%2083d2d172b5d5482aa6a5d70fe7262255/Untitled%201.png)
+![Untitled](../images/JPA_QUERYDSL/Untitled%201.png)
 
 - application.yml 생성
     - 사용이유
@@ -23,11 +23,11 @@
         - 가독성, 불필요한 코드 중복 해결, 계층구조
     - 기존 properties
         
-        ![Untitled](Spring%20+%20JPA%20+%20Querydsl%20-%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%20%E1%84%89%E1%85%A6%E1%84%90%E1%85%B5%E1%86%BC%2083d2d172b5d5482aa6a5d70fe7262255/Untitled%202.png)
+        ![Untitled](../images/JPA_QUERYDSL/Untitled%202.png)
         
     - .yml 파일 생성
         
-        ![Untitled](Spring%20+%20JPA%20+%20Querydsl%20-%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%20%E1%84%89%E1%85%A6%E1%84%90%E1%85%B5%E1%86%BC%2083d2d172b5d5482aa6a5d70fe7262255/Untitled%203.png)
+        ![Untitled](../images/JPA_QUERYDSL/Untitled%203.png)
         
 
 ---
