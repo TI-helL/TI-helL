@@ -56,3 +56,10 @@
 - [intent](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/intent.md)
 - [recyclerView](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/recyclerView.md)
 - [fragment_and_lifecycle](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/fragment_and_lifecycle.md)
+
+### W3
+
+- [custom_view](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/custom_view.md)
+- [drawable](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/drawable.md)
+- [gravity_align](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/gravity_align.md)
+- [linear_layout](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/linear_layout.md)
