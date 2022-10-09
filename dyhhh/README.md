@@ -63,3 +63,9 @@
 - [drawable](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/drawable.md)
 - [gravity_align](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/gravity_align.md)
 - [linear_layout](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/linear_layout.md)
+
+### W4
+
+- [android_animation](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/android_animation.md)
+- [canvas_store](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/canvas_store.md)
+- [intent_object_passing](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/intent_object_passing.md)
