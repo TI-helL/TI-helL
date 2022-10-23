@@ -69,3 +69,9 @@
 - [android_animation](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/android_animation.md)
 - [canvas_store](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/canvas_store.md)
 - [intent_object_passing](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/intent_object_passing.md)
+
+### W5
+
+- [canvas_operation](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/canvas_operation.md)
+- [constraint_layout](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/constraint_layout.md)
+- [registerForActivityResult](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/AOS/registerForActivityResult.md)
