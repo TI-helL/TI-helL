@@ -1,5 +1,7 @@
 # 이필원 TIL 입니다. :D
 
+# 11월 이후 노션에 등록
+- [Pilwon TIL - notion](https://curious-nation-d7e.notion.site/TIL-Today-I-Learned-f3bfbad378e7486d89e36ea779edd360)
 
 ## MSA(Micro Service Arichitecture)
 - [MSA 란? - 2022.09.16](https://github.com/TI-helL/TI-helL/blob/main/PilWonLee/MSA/MSA-concept.md)
