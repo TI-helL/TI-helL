@@ -89,3 +89,10 @@
 - [react_native_setting](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/ReactNative/react_native_setting.md)
 - [react_native_svg](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/ReactNative/react_native_svg.md)
 - [react_native](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/ReactNative/react_native.md)
+
+### W8
+
+- [Directive](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/VUE/Directive.md)
+- [Emit](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/VUE/Emit.md)
+- [type_import](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/VUE/type_import.md)
+- [Watch](https://github.com/TI-helL/TI-helL/tree/main/dyhhh/VUE/Watch.md)
